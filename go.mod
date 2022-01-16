@@ -9,7 +9,6 @@ require (
 )
 
 require (
-	contrib.go.opencensus.io/exporter/stackdriver v0.13.4 // indirect
 	filippo.io/edwards25519 v1.0.0-rc.1
 	github.com/AlekSi/pointer v1.1.0
 	github.com/GeertJohan/go.rice v1.0.0
@@ -36,7 +35,6 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/teris-io/shortid v0.0.0-20201117134242-e59966efd125 // indirect
 	github.com/tidwall/gjson v1.9.3 // indirect
-	go.opencensus.io v0.22.5 // indirect
 	go.uber.org/multierr v1.6.0 // indirect
 	go.uber.org/ratelimit v0.2.0
 	go.uber.org/zap v1.16.0
